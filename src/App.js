@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React App with PWA support</h2>
+          <h2>Project Dingo</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          version 0.1.2
         </p>
       </div>
     );
